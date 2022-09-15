@@ -1,6 +1,6 @@
 Hi there, I am Saif 👋  I'm looking to make a career transition into CS. After very influential programming classes in high-school, I have always stayed close to software. Now get to be in a full stack engineering program at The University of Helsinki 
 
-I'm a coder and [data hoarder](https://www.reddit.com/r/DataHoarder)/enthusiast, with expertise in React Native, Leaflet and Rust, and with extensive experience coding in Typescript, Lua and Python. My area of interest lies within databases, with a focus on edge computing, and software architecture, having had experience with PostgreSQL, SQLITE, Redis, SurrealDB, Firebase, and TiDB.
+I'm a coder and [data hoarder](https://www.reddit.com/r/DataHoarder)/enthusiast, with expertise in React Native, Leaflet and Rust, and with extensive experience coding in Typescript, Lua and Python. My area of interest lies within databases, with a focus on edge computing, and software architecture, having had experience with Firebase, SQLITE and SurrealDB.
 
 I am open sourcing [geacron Interactive World History Atlas since 3000 BC](http://geacron.com) to make it a blazingly fast and easy to use API
 
