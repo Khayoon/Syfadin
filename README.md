@@ -1,5 +1,4 @@
-Hi there, I am Saif 👋  I'm looking to make a career transition into CS. After a few programming classes in high-school, I have always stayed close to software currently in a full stack course to get me up to speed at University of Helsinki 
-
+Hi there, I am Saif 👋  I'm looking to make a career transition into CS. After a few programming classes in high-school, I have always stayed close to software an im in a full stack enigneering program to get me up to speed at University of Helsinki 
 
 I'm a coder and data hoarder/enthusiast, with expertise in Javascript (Node.js, Redwood.js, Preact.js), C#, Rust, and with extensive experience coding in Typescript, Lua, Ruby, and Python. My area of interest lies within databases, with a focus on distributed databases, and highly-available architectures, having had experience with PostgreSQL, MySQL, MongoDB, RethinkDB, Redis, InfluxDB, OrientDB, Firebase, CockroachDB, and TiDB.
 
