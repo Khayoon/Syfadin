@@ -2,7 +2,7 @@ Hi there, I am Saif 👋  I'm looking to make a career transition into CS. After
 
 I'm a coder and [data hoarder](https://www.reddit.com/r/DataHoarder), with expertise in React Native, and Rust, and with extensive experience coding in Typescript, and Python. My area of interest lies within databases, with a focus on distributed databases, highly-available architecture, database paradigms and big data, having had experience with Firebase, SQLITE, and COBOL
 
-I am recreating [geacron Interactive World History Atlas since 3000 BC](http://geacron.com)
+I am recreating [The Interactive World History Atlas since 3000 BC](http://geacron.com)
 
 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/saif-khayoon-12b53569/)
 
