@@ -1,4 +1,4 @@
-Hi there, I am Saif 👋  I'm looking to make a career transition into CS. After very influential programming classes in high-school, I had a brief stint in the financial sector but have always stayed close to software development. Now I get to be in the full stack engineering program at The University of Helsinki 
+Hi there, I am Saif 👋  I'm looking to make a career transition into CS. After very influential programming classes in high-school, I had a brief stint in fine arts but have always stayed close to software development. Now I get to be in the full stack engineering program at The University of Helsinki 
 
 I'm a coder and [data hoarder](https://www.reddit.com/r/DataHoarder), with expertise in React Native, and Rust, and with extensive experience coding in Typescript, and Python. My area of interest lies within databases, with a focus on edge computing, and big data architecture, having had experience with Firebase, SQLITE, and COBOL
 
