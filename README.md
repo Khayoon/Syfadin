@@ -8,4 +8,4 @@ I am open sourcing [geacron Interactive World History Atlas since 3000 BC](http:
 
 👉 Follow me on [Twitter](https://twitter.com/saifkhay)
 
-👉 Take a look at my [AI generated image portfolio](https://creator.nightcafe.studio/u/SpacePatrice)
+👉 Have a gander at my [AI generated image portfolio](https://creator.nightcafe.studio/u/SpacePatrice)
