@@ -6,6 +6,4 @@ I am recreating [The Interactive World History Atlas since 3000 BC](http://geacr
 
 👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/saif-khayoon-12b53569/)
 
-👉 Follow me on [Twitter](https://twitter.com/saifkhay)
-
 👉 Check out my aht [AI generated image portfolio](https://creator.nightcafe.studio/u/SpacePatrice)
