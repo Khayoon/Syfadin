@@ -2,6 +2,6 @@ Hi there, I am Saif 👋 I'm a coder and [data hoarder](https://www.reddit.com/r
 
 I am recreating [The Interactive World History Atlas since 3000 BC](http://geacron.com)
 
-👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/saif-khayoon-12b53569/)
+👉 Connect with me on [LinkedIn](https://www.linkedin.com/in/skhayoon/)
 
 👉 Check out my aht [AI generated image portfolio](https://creator.nightcafe.studio/u/SpacePatrice)
